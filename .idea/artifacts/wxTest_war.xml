@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wxTest:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/wxTest_war</output-path>
+    <root id="archive" name="wxTest_war.war">
+      <element id="artifact" artifact-name="wxTest:war exploded" />
+    </root>
+  </artifact>
+</component>
